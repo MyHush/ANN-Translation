@@ -1,0 +1,65 @@
+Website
+Forum
+Block Explorer
+Config Generator
+Twitter
+Facebook
+Telegram
+News Channel
+Slack Invite
+Slack
+Reddit
+GitHub
+What is HUSH?
+HUSH is a fork of Zcash that had a modest premine instead of the ongoing Founder’s Reward that has a development focus on secure messaging and adding assets and smart contracts to the underlying Zcash technology stack.
+What is our vision for HUSH in 3, 6, 12 months?
+03 Months:
+To have launched HUSH Messenger and have begun the port of CounterParty to HUSH.
+06 Months:
+To have CounterParty on HUSH (HXCP) working and the crowdsale for HXCP tokens completed and SuperNET DEX trading implemented in our wallet.
+12 Months:
+To have all of the above and additional items on the roapmap completed, including the Ethereum Virtual Machine (EVM) working in the HXCP layer.
+Why invest your time and resources in HUSH?
+The very active development team includes the maintainer of the non-linux ports of Zcash and a number of other Zcash forks, and new tech features are actually launching
+BEFORE
+any ICO/Crowdsale.
+How HUSH works?
+You can read more about the technology stacks that HUSH integrates at:
+How will HUSH be different in 6 months from what Zcash, Zclassic and Zencash is today?
+The on-chain assets that ZcashCo are working on adding to Zcash proper are not as powerful as CounterParty assets, and they are not looking at directly adding the EVM to Zcash. The Zclassic and Zen development teams are currently in flux, and while some of the promised features of ZEN are similar to those for HUSH, we believe we have and will continue to have a better track record of shipping releases.
+How HUSH works?
+You can read more about the technology stacks that HUSH integrates at:
+How will HUSH be different in 6 months from what Zcash, Zclassic and Zencash is today?
+The on-chain assets that ZcashCo are working on adding to Zcash proper are not as powerful as CounterParty assets, and they are not looking at directly adding the EVM to Zcash. The Zclassic and Zen development teams are currently in flux, and while some of the promised features of ZEN are similar to those for HUSH, we believe we have and will continue to have a better track record of shipping releases.
+Source &amp; Wallets
+Source Code
+Linux Wallet
+Windows Wallet
+Mac OS Wallet
+Android Wallet
+iOS Wallet
+Coming soon!
+Not Yet!
+Team
+Axel Karlsson
+Founder &amp; Community Manager
+David Mercer
+Lead Developer
+Iolar Demartini Jr
+Founder &amp; Web Developer
+atthew Reichardt
+Core Developer, Tooling and Forum
+I want to contribute!
+Contributions from the community help keep Hush alive. To contribute join us in our Slack, and review our Github repositories.
+Slack Invite
+GitHub
+Donations keep the lights and servers on.
+Hush
+Bitcoin
+Pools
+If you want your pool here, please get in touch.
+Exchanges
+Translations
+Official Thread
+Articles &amp; Videos
+Thanks to
